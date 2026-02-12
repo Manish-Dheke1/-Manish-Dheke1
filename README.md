@@ -33,7 +33,6 @@ I’m an aspiring **PHP Developer** passionate about web development and current
 I’m open to mentorship, collaboration, and internship opportunities. Feel free to reach out!  
 
 - **GitHub:** [https://github.com/Manish-Dheke1](https://github.com/Manish-Dheke1)  
-- **LinkedIn:** [Add your LinkedIn URL here]  
-- **Email:** [Add your email here]  
+- **LinkedIn:** [www.linkedin.com/in/manish-dheke-b862351a9]  
 
 ---
